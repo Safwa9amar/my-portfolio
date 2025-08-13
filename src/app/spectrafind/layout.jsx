@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
       <nav className="w-full sticky top-0 left-0 z-50 bg-gray-900 dark:bg-[#181824] shadow transition duration-300">
         <div className="max-w-5xl mx-auto flex justify-between items-center px-6 py-3">
           <button
-            onClick={() => navigation.back()}
+            onClick={() => navigation.replace("/#projects")}
             className="flex items-center gap-2 rounded-2xl cursor-pointer hover:bg-gray-800 p-2 transition"
           >
             <MdOutlineArrowBack size={32} />

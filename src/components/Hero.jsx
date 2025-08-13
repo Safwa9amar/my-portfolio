@@ -2,7 +2,7 @@ import Image from "next/image";
 export default function Hero() {
   return (
     <section id="hero" className="flex flex-col items-center justify-center text-center py-20 h-screen" style={{ marginTop: "64px" }}>
-      <Image src="/profile.png" alt="Hamza Hassani" width={400} height={400} className="aspect-square rounded-full mb-6 border-4 border-teal-400 shadow-lg" />
+      <Image src="/images/profile.png" alt="Hamza Hassani" width={400} height={400} className="aspect-square rounded-full mb-6 border-4 border-teal-400 shadow-lg" />
       <h1 className="text-4xl font-bold text-teal-300 mb-2">Hassani Hamza</h1>
       <h2 className="text-xl text-gray-300 mb-6">Web, App & React Native Developer</h2>
       <div className="flex gap-4 justify-center mb-8">

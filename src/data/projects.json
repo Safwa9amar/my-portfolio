@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "title": "Mobile Finder App",
+      "description": "Compare mobile phones by price and features. Auth, listings, buy/sell platform.",
+      "image": "/images/spectrafind.png",
+      "tags": ["Web"],
+      "tech": "Next.js 14, React Native, Prisma ORM, Socket.io",
+      "status": "In Progress",
+      "previewUrl": "/spectrafind",
+      "githubUrl": "https://github.com/Safwa9amar/SpectraFind",
+      "liveUrl": "https://spectrafind.netlify.app"
+    }
+    
+  ]
