@@ -10,6 +10,18 @@
       "previewUrl": "/spectrafind",
       "githubUrl": "https://github.com/Safwa9amar/SpectraFind",
       "liveUrl": "https://spectrafind.netlify.app"
+    },
+    {
+      "id": "2",
+      "title": "ShopSwift  A Full‑Stack E‑commerce App for Mobile and Web",
+      "description": "A behind‑the‑scenes look at how I designed and built ShopSwift — a React Native + Expo mobile app with a companion Next.js web app for the storefront/admin experience.",
+      "image": "/images/shop-swift/ic_launcher.png",
+      "tags": ["Web","android"],
+      "tech": "Next.js 14, React Native, Tailwindcss",
+      "status": "In Progress",
+      "previewUrl": "/shop-swift",
+      "githubUrl": "https://github.com/Safwa9amar/SpectraFind",
+      "liveUrl": "https://spectrafind.netlify.app"
     }
     
   ]
